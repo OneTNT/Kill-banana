@@ -70,6 +70,7 @@ h2 {
     border-radius: 8px;
     padding: 15px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    gap: 10px;
 }
 
 #game {
@@ -88,4 +89,21 @@ h2 {
 #shop_label {
     margin: 0;
     padding: 10px;
+}
+
+.title_item {
+    font-size: 20px;
+    margin: 0;
+}
+
+.description_item {
+    margin: 0;
+    color: rgb(122, 122, 122);
+    font-size: 15px;
+}
+
+.classic_shop_item {
+    background-color: #ffbdfe;
+    padding: 5px;
+    border-radius: 10px;
 }
