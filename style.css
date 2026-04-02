@@ -108,6 +108,13 @@ h2 {
     border-radius: 10px;
 }
 
+.classic_shop_item:hover, .classic_shop_item:focus {
+    cursor: pointer;
+    border-style: solid;
+    border_size: 1px;
+    box-sizing: border-box;
+}
+
 .price {
     margin-bottom: 0;
     margin-top: 0;
